@@ -1,0 +1,37 @@
+body {
+  background-color: #E9ECEF;
+}
+
+.h1 {
+  font-style: italic;
+  color: purple;
+  text-align: center;
+}
+
+.h4 {
+  color: chocolate;
+  text-align: left;
+}
+
+.bold {
+  font: bold;
+  color: firebrick;
+}
+
+.h3 {
+  color: red;
+  text-align: center;
+}
+
+.p {
+  text-align: center;
+}
+
+.ul {
+  list-style: none;
+}
+
+.li {
+  text-align: center;
+}
+
